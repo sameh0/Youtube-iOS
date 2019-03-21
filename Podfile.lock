@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.8.1)
+  - SwiftAudio (0.6.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftAudio
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - SwiftAudio
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  SwiftAudio: cff12f509ccf5217632dc39c938289b100a7890f
+
+PODFILE CHECKSUM: 0b76db5d0cb9119e15cf889a150e6d06a8c31500
+
+COCOAPODS: 1.5.3
